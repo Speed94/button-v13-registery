@@ -1,0 +1,30 @@
+{
+  "botToken": "OTY0ODY5MDQzOTMwNjY0OTYw.Ylq6Ug.Lz6CVwpol7GR0fZfptFETWorpoA",
+  "botOwner": "725231585833517077",
+  "botPrefix": ".",
+  "botVoiceChannel": "964261582152560693",
+  "botActivityName": "Phantom 💙 Speed",
+  "botActivityType": "WATCHING",
+  "botStatus": "dnd",
+
+  "mongoConnectionLink": "mongodb+srv://manerecodegoat:goatmanerebyspeed@cluster0.thzi3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "964261542373773352",
+  "rulesChannel": "964261553681616966",
+  "Suspicious": "964261424752902154",
+  "Unregistered": "964261405744328725",
+
+
+  "FamilyRole": "964261388996464650",
+  "Tag": "ゃ",
+  "Untag": "▸",
+
+  "RegisterStaff": ["964261318930595900"],
+  "ManRole": "964261395027886080",
+  "WomanRole": "964261390862942258",
+  "BoosterRole": "919144936614555658",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
